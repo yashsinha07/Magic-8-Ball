@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 # Magic 8 Ball
@@ -16,3 +17,7 @@ We’re going to make a Magic 8 Ball app. You can ask the app to make all your h
 
 ![End Banner](Documentation/readme-end-banner.png)
 
+=======
+# Magic-8-Ball
+Random Image generator
+>>>>>>> refs/remotes/origin/master
